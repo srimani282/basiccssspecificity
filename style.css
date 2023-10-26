@@ -1,0 +1,43 @@
+
+
+
+h1{
+    color:red !important
+}
+
+h1{
+    color:aqua
+}
+
+.para1 {
+    color: burlywood;
+}
+
+.para2 {
+    color: aqua;
+    font-size: 18px;
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+.container{
+    height: 250px;
+    width: 250px;
+    background-color: aquamarine;
+    padding: 15px 10px;
+    padding-top: 20px;
+    border: 15px solid green;
+    margin: 15px;
+    margin-top: 50px;
+}
+
+#container-id{
+    height: 250px;
+    width: 250px;
+    background-color: aquamarine;
+    padding: 15px 10px;
+    padding-top: 20px;
+    border: 15px solid red;
+    margin: 15px;
+    margin-top: 50px;
+}
